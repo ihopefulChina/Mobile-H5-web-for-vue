@@ -1,19 +1,3 @@
-# test1
+### 移动端 h5 动画 web
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 基于 vue 开发，vue-cli 脚手架搭建
